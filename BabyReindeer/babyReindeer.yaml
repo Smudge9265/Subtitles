@@ -1,0 +1,19 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/smudge9265/Subtitles/main/BabyReindeer/
+    subtitles:
+      - season: 1
+        items:
+          - path: 'Baby Reindeer S01E01.srt'
+            episode: 1
+          - path: 'Baby Reindeer S01E02.srt'
+            episode: 2
+          - path: 'Baby Reindeer S01E03.srt'
+            episode: 3
+          - path: 'Baby Reindeer S01E04.srt'
+            episode: 4
+          - path: 'Baby Reindeer S01E05.srt'
+            episode: 5
+          - path: 'Baby Reindeer S01E06.srt'
+            episode: 6
+          - path: 'Baby Reindeer S01E07.srt'
+            episode: 7
