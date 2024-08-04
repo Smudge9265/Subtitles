@@ -1,0 +1,21 @@
+msubtitles:
+  - source: https://raw.githubusercontent.com/smudge9265/Subtitles/main/TheBear/
+    subtitles:
+      - season: 1
+        items:
+          - path: 's01/The.Bear.S01E01.cht.srt'
+            episode: 1
+          - path: 's01/The.Bear.S01E02.cht.srt'
+            episode: 2
+          - path: 's01/The.Bear.S01E03.cht.srt'
+            episode: 3
+          - path: 's01/The.Bear.S01E04.cht.srt'
+            episode: 4
+          - path: 's01/The.Bear.S01E05.cht.srt'
+            episode: 5
+          - path: 's01/The.Bear.S01E06.cht.srt'
+            episode: 6
+          - path: 's01/The.Bear.S01E07.cht.srt'
+            episode: 7
+          - path: 's01/The.Bear.S01E08.cht.srt'
+            episode: 8
